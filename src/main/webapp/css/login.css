@@ -1,0 +1,70 @@
+body {
+	text-align: center;
+	height: 100%;
+}
+
+.bgImg {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	bottom: 0px;
+	right: 0px;
+	width: 100%;
+	height: 100%;
+}
+
+.logo {
+	width: 800px;
+}
+
+.bidTitle {
+	color: #e6e6e6;
+	font-size: 34px;
+	font-weight: 600;
+}
+
+.logCon {
+	color: #FFFFFF;
+	margin-top: 40px;
+}
+
+.line {}
+
+body .content {
+	width: 42%;
+	position: fixed;
+	background: #0f1a1494;
+	left: 29%;
+	padding: 5% 1%;
+	margin-top: 12%;
+	border-radius: 5px;
+}
+
+body .logingBut {
+	background: #2d8c5fa6;
+	border: none;
+	padding: 12px 0px;
+	color: #edefee;
+	border-radius: 2px;
+	width: 330px;
+	margin-left: 30px;
+	margin-top: 5px;
+}
+
+body .bt_input {
+	border-radius: 2px;
+	border: none;
+	padding: 11px 5px;
+	width: 330px;
+	margin-right: 20px;
+	color: #333;
+	margin-left: 5px;
+	margin-bottom: 18px;
+	background: #ffffffd9;
+}
+
+body .logCon span {
+	font-size: 18px;
+	height: 40px;
+	line-height: 40px;
+}
